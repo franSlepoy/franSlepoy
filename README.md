@@ -56,7 +56,7 @@ Tambén disfruto la creación de escenas 3D, animaciones y gráficos.
 🎓 Argentina Programa 4.0 (Front-end con JavaScript)
 
 🛠️ Tecnologías
-💡 Front-End: JavaScript, TypeScript, React JS, HTML, CSS, Material UI, Bootstrap, Styled Components, Chakra UI, Figma.
+💡 Front-End: JavaScript, TypeScript, React JS, Jest, Ract Native, HTML, CSS, Material UI, Bootstrap, Styled Components, Chakra UI, Figma.
 
 📡 Back-End & Bases de Datos: Node.js, Express, SQL, Firebase.
 
