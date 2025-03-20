@@ -45,7 +45,7 @@ Tambén disfruto la creación de escenas 3D, animaciones y gráficos.
 
 👉 franciscoslepoy.sinestesia-lab.com 🚀
 
-Además, mi trayectoria de más de 15 años como músico, productor y docente me ha brindado habilidades blandas de nivel senior: adaptabilidad, trabajo en equipo, resolución de problemas y pensamiento creativo, fundamentales para enfrentar desafíos en el ámbito tecnológico.
+🔹 Mi trayectoria de más de 15 años como músico, productor y docente me ha brindado habilidades blandas de nivel senior: adaptabilidad, trabajo en equipo, resolución de problemas y pensamiento creativo, fundamentales para enfrentar desafíos en el ámbito tecnológico.
 
 
 
@@ -57,9 +57,13 @@ Además, mi trayectoria de más de 15 años como músico, productor y docente me
 
 🛠️ Tecnologías
 💡 Front-End: JavaScript, TypeScript, React JS, HTML, CSS, Material UI, Bootstrap, Styled Components, Chakra UI, Figma.
+
 📡 Back-End & Bases de Datos: Node.js, Express, SQL, Firebase.
+
 🎨 Diseño & No-Code: Wordpress, Webflow.
+
 🎮 3D & Animación: Three.js, React Three Fiber.
+
 👾 Programación Visual: Scratch, Blockly.
 
 
